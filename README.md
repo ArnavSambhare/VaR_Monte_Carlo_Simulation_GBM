@@ -1,4 +1,4 @@
-# VaR_Monte_Carlo_Simulation_GBM
+# VaR Monte Carlo Simulation(Geometric Brownian Motion Process)
 
 This contains the code to estimate the VaR using the Monte Carlo Simulation.<br>
 <br>
